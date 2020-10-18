@@ -2,6 +2,12 @@
 
 ## 11.0.0-rc.0
 
+### Patch Changes
+
+- [`3abcf673`](https://github.com/emotion-js/emotion/commit/3abcf673d6d2ea8d802602dde1d5af33af75ac4c) [#2043](https://github.com/emotion-js/emotion/pull/2043) Thanks [@Andarist](https://github.com/Andarist)! - `@types/jest` has been moved from the dependencies to the optional peer dependencies as it should not be installed automatically for users not using TypeScript.
+
+## 11.0.0-rc.0
+
 ### Major Changes
 
 - [`9c4ebc16`](https://github.com/emotion-js/emotion/commit/9c4ebc160471097c5d04fb92dba3ed0df870bb63) [#2030](https://github.com/emotion-js/emotion/pull/2030) Thanks [@Andarist](https://github.com/Andarist)! - Release candidate version.
